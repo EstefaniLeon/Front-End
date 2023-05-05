@@ -3,6 +3,7 @@
 <div align="center">
 Front End learning process and exercises
 </div>
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
