@@ -1,4 +1,4 @@
-<h1 align="center">Responsive Layouts</h1>
+<h1 align="center">Flexbox</h1>
 
 <div align="center">
 Front End learning process and exercises
@@ -24,8 +24,14 @@ _Technologies used in the project:_
 
 ## Acknowledgements
 
-- [¿Cómo lidiar con los límites de resolución en sitios responsivos?](https://www.aluracursos.com/blog/como-lidiar-con-los-limites-de-resolucion-en-sitios-responsivos)
-- [Layouts Responsivos: Trabajando con layouts mobile](https://www.aluracursos.com/curso-online-layouts-responsivos-layouts-mobile)
+- [Comenzando con Front-end](https://www.aluracursos.com/blog/comenzando-con-front-end)
+- [¿Cómo es el día a día de un desarrollador Front End?](https://www.youtube.com/watch?v=rf7Yb1INgtQ&t=1869s)
+- [Desde cero hasta programador front-end](https://www.aluracursos.com/blog/desde-cero-hasta-programador-front-end)
+- [Accesibilidad Web](https://www.youtube.com/watch?v=ngMOsuZL-XE&list=PLNKOkLkhi1KceHPDvWE7ZkPW7betyiAG0&index=39&t=2s)
+- [Empezando a organizar tu CSS](https://www.aluracursos.com/blog/empezando-a-organizar-tu-css)
+- [Consejos de CSS FlexBox para comenzar](https://www.youtube.com/watch?v=EB4vWLzfVcI&list=PLNKOkLkhi1KceHPDvWE7ZkPW7betyiAG0&index=37)
+- [Flexbox CSS: Guia Completo, Elementos y Ejemplos](https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos)
+- [Flexbox: Posicione elementos en la pantalla](https://www.aluracursos.com/curso-online-flexbox-posicione-elementos-pantalla)
 
 <!-- CONTACT -->
 
