@@ -1,4 +1,4 @@
-<h1 align="center">Responsive Layouts</h1>
+<h1 align="center">CSS Architecture: Decomplicating the problems</h1>
 
 <div align="center">
 Front End learning process and exercises
@@ -20,13 +20,15 @@ _Technologies used in the project:_
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [HTML5](https://es.wikipedia.org/wiki/HTML5)
 - [CSS3](https://es.wikipedia.org/wiki/CSS#CSS3)
-- [Figma Design](https://www.figma.com/file/leWvDn6nXnCJM96a1e22m3/Apeperia-Mobile-First?type=design&t=f3i65YxxErjiLVxG-0)
+- [Figma Design](https://www.figma.com/file/3MvxVCB8ISvEn0xib0Ghq6/Arquitectura-CSS?type=design&t=f3i65YxxErjiLVxG-0)
 
 
 ## Acknowledgements
 
-- [¿Cómo lidiar con los límites de resolución en sitios responsivos?](https://www.aluracursos.com/blog/como-lidiar-con-los-limites-de-resolucion-en-sitios-responsivos)
-- [Layouts Responsivos: Trabajando con layouts mobile](https://www.aluracursos.com/curso-online-layouts-responsivos-layouts-mobile)
+- [¿Cómo organizar el CSS en tu proyecto?](https://www.aluracursos.com/blog/como-organizar-el-css-en-tu-proyecto)
+- [Creación de componentes CSS con el estándar BEM](https://www.aluracursos.com/blog/creacion-de-componentes-css-con-el-estandar-bem)
+- [Equipo Front End](https://www.youtube.com/watch?v=rpvrLaBQwgg&ab_channel=AluraLatam)
+- [Arquitectura CSS: descomplicando los problemas](https://www.aluracursos.com/curso-online-arquitectura-css-descomplicando-los-problemas)
 
 <!-- CONTACT -->
 
