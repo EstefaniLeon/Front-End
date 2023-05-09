@@ -10,6 +10,7 @@ Front End learning process and exercises
 
 - [Flexbox](https://github.com/EstefaniLeon/Front-End/tree/master/Flexbox)
 - [Responsive Layouts](https://github.com/EstefaniLeon/Front-End/tree/master/Layouts-responsivos)
+- [CSS Architecture](https://github.com/EstefaniLeon/Front-End/tree/master/Arquitectura-css)
 - [Built With 🛠️](#built-with-🛠️)
 - [Contact](#contact)
 
