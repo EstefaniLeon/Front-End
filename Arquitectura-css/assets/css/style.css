@@ -1,30 +1,33 @@
-.cabecera {
+.cabecera{
     align-items: center;
-    background: #F9F9F9;
+    background: #f9f9f9;
     display: flex;
     justify-content: space-between;
     padding-left: 2rem;
     padding-right: 2rem;
 }
 
-.menu-lista {
+.menu__lista{
     display: flex;
 }
 
-.menu-item {
+.menu__item{
     list-style: none;
 }
 
-.menu-link {
+.menu__link{
     color: #808080;
     margin-right: 1.25rem;
     text-decoration: none;
 }
 
-.menu-link:hover {
+.menu__link:hover{
     text-decoration: underline;
 }
 
-.menu-link.activo {
+.menu__link--activo{
+    color: #808080;
+    margin-right: 1.25rem;
+    text-decoration: none;
     color: #333333;
 }
